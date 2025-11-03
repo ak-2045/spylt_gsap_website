@@ -1,4 +1,4 @@
-# **SPYLT Website (using react, tailwing & GSAP)**
+# **SPYLT Website *(using react, tailwing & GSAP)* **
 
 **SPYLT** is a dynamic, design-forward web experience inspired by the energy of its product — a fusion of *protein* and *caffeine* crafted for those who live boldly.  
 This project recreates the essence of an original commercial website using **React**, **Tailwind CSS**, and **GSAP**, combining **parallax motion** and **scroll-triggered animations** for an immersive, modern aesthetic.
