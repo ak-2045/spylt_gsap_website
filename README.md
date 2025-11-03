@@ -1,4 +1,3 @@
-```
 # **SPYLT Website (using react, tailwing & GSAP)**
 
 **SPYLT** is a dynamic, design-forward web experience inspired by the energy of its product — a fusion of *protein* and *caffeine* crafted for those who live boldly.  
