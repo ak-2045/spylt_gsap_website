@@ -80,7 +80,7 @@ Screenshots demonstrating various sections and animation effects:
      Visit [http://localhost:5173](http://localhost:5173) after starting the development server.
 
    - **Hosted version:**  
-     Choose any of the deployed links below _(check if available)_: [View on Netlify](https://your-netlify-link.com)  
+     Choose any of the deployed links below _(check if available)_: [View on Netlify](https://netlify_not_hosted.com)  
 
 ---
 
