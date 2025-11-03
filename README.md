@@ -49,9 +49,9 @@ Screenshots demonstrating various sections and animation effects:
 | Screenshot | Description |
 |-------------|-------------|
 | ![Hero Section](images/1.png) | Hero section featuring parallax entry and layered typography. |
-| ![Scroll Animation](images/2.png) | Scroll-based GSAP animations revealing product visuals. |
-| ![Flavor Section](images/3.png) | Rotating elements and dynamic text animations in the flavor section. |
-| ![Nutrition Section](images/4.png) | Smooth reveal of nutritional details and background transitions. |
+| ![Scroll Animation](images/2.png) | Smooth scroll-triggered GSAP animations that reveal key product messages in a dynamic, engaging way.|
+| ![Flavor Section](images/3.png) | A simple slider to showcase products. |
+| ![Nutrition Section](images/4.png) | Smooth reveal of nutritional details. |
 | ![Footer](images/5.png) | Minimalistic footer with social links and elegant spacing. |
 
 ---
