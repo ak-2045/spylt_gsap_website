@@ -56,42 +56,6 @@ Screenshots demonstrating various sections and animation effects:
 
 ---
 
-## **Core Styling Overview**
-
-SPYLT’s design leverages Tailwind’s extendable theme system and GSAP’s animation capabilities for cohesive motion and consistency.
-
-```css
-@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&display=swap");
-@import "tailwindcss";
-
-@font-face {
-  font-family: "ProximaNova, sans-serif";
-  src: url("/fonts/ProximaNova-Regular.otf");
-}
-
-@theme {
-  --color-main-bg: #232224;
-  --color-milk: #faeade;
-  --font-sans: "Antonio", sans-serif;
-  --font-paragraph: "ProximaNova, sans-serif";
-}
-````
-
-Reusable utility classes:
-
-```css
-@layer utilities {
-  .flex-center {
-    @apply flex justify-center items-center;
-  }
-  .abs-center {
-    @apply absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2;
-  }
-}
-```
-
----
-
 ## **Setup Instructions**
 
 1. Clone the repository
@@ -118,6 +82,7 @@ Reusable utility classes:
 ## **Credits**
 
 **Developed by:** *Akmal Hossain*
+<br>
 **Inspired by:** [Fullstack Empire – SPYLT Website Animation Tutorial](https://youtu.be/pqYxZ8jd768)
 
 Built with a deep appreciation for design, performance, and motion storytelling.
