@@ -74,8 +74,14 @@ Screenshots demonstrating various sections and animation effects:
    ```bash
    npm run dev
    ```
-4. Open the website at:
-   **[Visit SPYLT Website](https://your-website-link.com)**
+4. Open the website locally or view it online:
+
+   - **Run locally:**  
+     Visit [http://localhost:5173](http://localhost:5173) after starting the development server.
+
+   - **Hosted version:**  
+     Choose any of the deployed links below _(check if available)_:  
+     - [View on Netlify](https://your-netlify-link.com)  
 
 ---
 
